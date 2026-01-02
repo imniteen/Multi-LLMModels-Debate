@@ -1,0 +1,11 @@
+﻿# Azure OpenAI SDK (supports API key authentication)
+openai
+
+# UI Framework
+gradio
+
+# Environment Management
+python-dotenv
+
+# Async HTTP client (for potential future use)
+aiohttp
