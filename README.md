@@ -3,7 +3,7 @@
 
 
 
-# LLM Council: Chain-of-Debate System
+## LLM Council: Chain-of-Debate System
 
 A sophisticated multi-agent debate system using Azure OpenAI, implementing a "Chain-of-Debate" pattern where three distinct AI models collaborate through structured rounds to reach consensus on complex queries.
 
