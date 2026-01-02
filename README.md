@@ -33,7 +33,7 @@ This application orchestrates three AI models in a council-style debate:
 
 1. **Clone the repository**
    ```bash
-   cd c:\TFS\GitHub\niteen-badgujar_icertis\Multi-LLMModels-Debate
+   cd c:\Github\Multi-LLMModels-Debate
    ```
 
 2. **Install dependencies**
